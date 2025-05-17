@@ -2,7 +2,7 @@
 //  DisplayLinkAnimationView.swift
 //  DisplayLinkAnimator
 //
-//  Created by Даниил Нуждин on 25.01.2018.
+//  Created by Daniil Nuzhdin on 25.01.2018.
 //  Copyright © 2018 vientooscuro. All rights reserved.
 //
 

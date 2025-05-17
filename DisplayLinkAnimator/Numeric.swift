@@ -2,7 +2,7 @@
 //  Numeric.swift
 //  DisplayLinkAnimator
 //
-//  Created by Даниил Нуждин on 06.01.2018.
+//  Created by Daniil Nuzhdin on 06.01.2018.
 //  Copyright © 2018 vientooscuro. All rights reserved.
 //
 

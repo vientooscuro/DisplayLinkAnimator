@@ -2,7 +2,7 @@
 //  Math.swift
 //  DisplayLinkAnimator
 //
-//  Created by Даниил Нуждин on 23.01.2018.
+//  Created by Daniil Nuzhdin on 23.01.2018.
 //  Copyright © 2018 vientooscuro. All rights reserved.
 //
 

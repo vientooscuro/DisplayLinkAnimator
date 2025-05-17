@@ -1,5 +1,5 @@
 //
-// Created by Даниил Нуждин on 2019-06-19.
+// Created by Daniil Nuzhdin on 2019-06-19.
 // Copyright (c) 2019 vientooscuro. All rights reserved.
 //
 

@@ -2,7 +2,7 @@
 //  BezierCurve.swift
 //  DisplayLinkAnimator
 //
-//  Created by Даниил Нуждин on 31.03.2018.
+//  Created by Daniil Nuzhdin on 31.03.2018.
 //  Copyright © 2018 vientooscuro. All rights reserved.
 //
 
